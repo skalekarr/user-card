@@ -12,3 +12,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.inline {
+  display: inline-block;
+}
+
+img {
+  width: 200px !important;
+  height: 200px;
+}
+
+.card-img-top {
+  background: url() no-repeat center top / cover;
+}
+
+.col {
+  margin: 20px
+}
+
+.row {
+  width: 550px;
+  border: 1px solid black;
+}
+
+.card-body {
+  position: relative;
+  left: 120px;
+}
