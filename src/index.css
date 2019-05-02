@@ -23,7 +23,7 @@ img {
 }
 
 .card-img-top {
-  background: url() no-repeat center top / cover;
+  border-radius: 50%;
 }
 
 .col {
